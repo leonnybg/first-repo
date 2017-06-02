@@ -1,5 +1,7 @@
 Hi, GitHub!
 "Update with Tortoise…"
+"Update with Bash..."
+####
 I am new and I don't know anything. 
 My name is Lio.
 Came from Pernik.
