@@ -1,5 +1,11 @@
 Hi, GitHub!
+<<<<<<< HEAD
 Updating with Bash…
+=======
+"Update with Tortoise…"
+"Update with Bash..."
+####
+>>>>>>> 0b91ae4cd9f203c3404f05eb24db696ddf3664d5
 I am new and I don't know anything. 
 My name is Lio.
 Came from Pernik.
